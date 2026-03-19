@@ -2,7 +2,7 @@
 
 Calculate monthly loan payments, total interest, and a full amortization schedule using the standard PMT formula, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/calculators/loan-calculator
+**Live Demo:** https://file-converter-free.com/en/calculators/loan-calculator-online
 
 ## How It Works
 
